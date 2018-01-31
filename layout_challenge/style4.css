@@ -1,0 +1,64 @@
+.theHeader {
+	width: 20%;
+	background: grey;
+	height: 60px;
+	float: left;
+}
+
+.menu {
+	width: 80%;
+	background: grey;
+	height: 60px;
+	float: left;
+}	
+
+.theMain {
+	width: 100%;
+	background: green;
+	height: 80px;
+	color: yellow;
+	height: 100px;
+/* why is the height of the main larger than the .meny however on the webpage it shows smaller??*/
+}
+
+.ul {
+	width: 100%;
+	background: pink;
+	float: left;
+	margin: 10px auto 10px auto;
+
+}
+
+.li {
+	width: 50%;
+	background: purple;
+	padding: 10px;
+	float: left;
+	margin: 10px auto 10px auto;
+}
+
+.box1 {
+	width: 30%;
+	background: blue;
+	float: left;
+}
+
+.box2 {
+	width: 40%;
+	background: red;
+	float: left;
+}
+
+.box3 {
+	width: 30%;
+	background: blue;
+	float: left;
+}
+
+.theFooter {
+	width: 100%;
+	background: teal;
+	height: 60px;
+	/* why is the background turning teal around the boxes and the articles? */
+	/* why is the height breaking the footer line?*/
+}

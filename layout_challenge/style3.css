@@ -1,0 +1,54 @@
+.theHeader {
+	width: 100%;
+	background: grey;
+	height: 60px;
+
+}
+
+.theMain {
+	width: 100%;
+	background: green;
+	height: 80px;
+
+}
+
+.article1 {
+	width: 50%;
+	background: pink;
+	float: left;
+	margin: 10px auto 10px auto;
+
+}
+
+.article2 {
+	width: 50%;
+	background: purple;
+	float: left;
+	margin: 10px auto 10px auto;
+}
+
+.box1 {
+	width: 30%;
+	background: blue;
+	float: left;
+}
+
+.box2 {
+	width: 40%;
+	background: red;
+	float: left;
+}
+
+.box3 {
+	width: 30%;
+	background: blue;
+	float: left;
+}
+
+.theFooter {
+	width: 100%;
+	background: teal;
+	height: 60px;
+	/* why is the background turning teal around the boxes and the articles? */
+	/* why is the height breaking the footer line?*/
+}

@@ -1,0 +1,46 @@
+
+
+.theHeader {
+	width: 100%;
+	background: grey;
+	/* margin: 12px 0 12px 0; */
+	min-height: 60px;
+}
+
+.theMain {
+	width: 100%;
+	background: solid red;
+	/* margin: 12px 0 12px 0; */
+}
+
+
+.theMenu {
+	width: 20%;
+	float:left;
+	background: orange;
+	/* padding: 12px;
+	margin: 12px 0 12px 0;*/
+}
+
+.theArticle {
+	width: 60%;
+	background: teal;
+	float: left;
+	/* padding: 12px;
+	margin: 12px 0 12px 0;*/
+}
+
+.theSection {
+	width: 20%;
+	float: left;
+	background: purple;
+	/* padding: 12px;
+	margin: 12px 0 12px 0;*/
+}
+
+.theFooter {
+	width: 100%;
+	background: grey;
+	/*padding: 12px;*/
+	clear: both;
+}
