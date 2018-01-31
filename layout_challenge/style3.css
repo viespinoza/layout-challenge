@@ -2,26 +2,24 @@
 	width: 100%;
 	background: grey;
 	height: 60px;
-
 }
 
 .theMain {
 	width: 100%;
-	background: green;
-	height: 80px;
-
+	background: lightgrey;
+	height: 300px;
 }
 
-.article1 {
-	width: 50%;
+/*how/why do I target the class inside div here, and not only the tag div??*/
+div1.article1 {
+	width: 45%;
 	background: pink;
 	float: left;
 	margin: 10px auto 10px auto;
-
 }
 
-.article2 {
-	width: 50%;
+div1.article2 {
+	width: 45%;
 	background: purple;
 	float: left;
 	margin: 10px auto 10px auto;
